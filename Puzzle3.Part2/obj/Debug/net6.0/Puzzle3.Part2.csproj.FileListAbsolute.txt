@@ -1,0 +1,15 @@
+C:\Git\AdventOfCode\Puzzle3.Part2\bin\Debug\net6.0\Puzzle3.Part2.exe
+C:\Git\AdventOfCode\Puzzle3.Part2\bin\Debug\net6.0\Puzzle3.Part2.deps.json
+C:\Git\AdventOfCode\Puzzle3.Part2\bin\Debug\net6.0\Puzzle3.Part2.runtimeconfig.json
+C:\Git\AdventOfCode\Puzzle3.Part2\bin\Debug\net6.0\Puzzle3.Part2.dll
+C:\Git\AdventOfCode\Puzzle3.Part2\bin\Debug\net6.0\ref\Puzzle3.Part2.dll
+C:\Git\AdventOfCode\Puzzle3.Part2\bin\Debug\net6.0\Puzzle3.Part2.pdb
+C:\Git\AdventOfCode\Puzzle3.Part2\obj\Debug\net6.0\Puzzle3.Part2.csproj.AssemblyReference.cache
+C:\Git\AdventOfCode\Puzzle3.Part2\obj\Debug\net6.0\Puzzle3.Part2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Git\AdventOfCode\Puzzle3.Part2\obj\Debug\net6.0\Puzzle3.Part2.AssemblyInfoInputs.cache
+C:\Git\AdventOfCode\Puzzle3.Part2\obj\Debug\net6.0\Puzzle3.Part2.AssemblyInfo.cs
+C:\Git\AdventOfCode\Puzzle3.Part2\obj\Debug\net6.0\Puzzle3.Part2.csproj.CoreCompileInputs.cache
+C:\Git\AdventOfCode\Puzzle3.Part2\obj\Debug\net6.0\Puzzle3.Part2.dll
+C:\Git\AdventOfCode\Puzzle3.Part2\obj\Debug\net6.0\ref\Puzzle3.Part2.dll
+C:\Git\AdventOfCode\Puzzle3.Part2\obj\Debug\net6.0\Puzzle3.Part2.pdb
+C:\Git\AdventOfCode\Puzzle3.Part2\obj\Debug\net6.0\Puzzle3.Part2.genruntimeconfig.cache

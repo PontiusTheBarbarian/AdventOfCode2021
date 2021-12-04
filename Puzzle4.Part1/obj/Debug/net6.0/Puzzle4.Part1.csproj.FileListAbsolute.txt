@@ -1,0 +1,15 @@
+C:\Git\AdventOfCode\Puzzle4.Part1\bin\Debug\net6.0\Puzzle4.Part1.exe
+C:\Git\AdventOfCode\Puzzle4.Part1\bin\Debug\net6.0\Puzzle4.Part1.deps.json
+C:\Git\AdventOfCode\Puzzle4.Part1\bin\Debug\net6.0\Puzzle4.Part1.runtimeconfig.json
+C:\Git\AdventOfCode\Puzzle4.Part1\bin\Debug\net6.0\Puzzle4.Part1.dll
+C:\Git\AdventOfCode\Puzzle4.Part1\bin\Debug\net6.0\ref\Puzzle4.Part1.dll
+C:\Git\AdventOfCode\Puzzle4.Part1\bin\Debug\net6.0\Puzzle4.Part1.pdb
+C:\Git\AdventOfCode\Puzzle4.Part1\obj\Debug\net6.0\Puzzle4.Part1.csproj.AssemblyReference.cache
+C:\Git\AdventOfCode\Puzzle4.Part1\obj\Debug\net6.0\Puzzle4.Part1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Git\AdventOfCode\Puzzle4.Part1\obj\Debug\net6.0\Puzzle4.Part1.AssemblyInfoInputs.cache
+C:\Git\AdventOfCode\Puzzle4.Part1\obj\Debug\net6.0\Puzzle4.Part1.AssemblyInfo.cs
+C:\Git\AdventOfCode\Puzzle4.Part1\obj\Debug\net6.0\Puzzle4.Part1.csproj.CoreCompileInputs.cache
+C:\Git\AdventOfCode\Puzzle4.Part1\obj\Debug\net6.0\Puzzle4.Part1.dll
+C:\Git\AdventOfCode\Puzzle4.Part1\obj\Debug\net6.0\ref\Puzzle4.Part1.dll
+C:\Git\AdventOfCode\Puzzle4.Part1\obj\Debug\net6.0\Puzzle4.Part1.pdb
+C:\Git\AdventOfCode\Puzzle4.Part1\obj\Debug\net6.0\Puzzle4.Part1.genruntimeconfig.cache
