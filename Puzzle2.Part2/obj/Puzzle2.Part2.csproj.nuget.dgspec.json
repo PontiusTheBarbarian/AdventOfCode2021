@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Git\\AdventOfCode\\Puzzle2.Part2\\Puzzle2.Part2.csproj": {}
+    "C:\\Git\\AdventOfCode2021\\Puzzle2.Part2\\Puzzle2.Part2.csproj": {}
   },
   "projects": {
-    "C:\\Git\\AdventOfCode\\Puzzle2.Part2\\Puzzle2.Part2.csproj": {
+    "C:\\Git\\AdventOfCode2021\\Puzzle2.Part2\\Puzzle2.Part2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Git\\AdventOfCode\\Puzzle2.Part2\\Puzzle2.Part2.csproj",
+        "projectUniqueName": "C:\\Git\\AdventOfCode2021\\Puzzle2.Part2\\Puzzle2.Part2.csproj",
         "projectName": "Puzzle2.Part2",
-        "projectPath": "C:\\Git\\AdventOfCode\\Puzzle2.Part2\\Puzzle2.Part2.csproj",
+        "projectPath": "C:\\Git\\AdventOfCode2021\\Puzzle2.Part2\\Puzzle2.Part2.csproj",
         "packagesPath": "C:\\Users\\LiamAppleyard\\.nuget\\packages\\",
-        "outputPath": "C:\\Git\\AdventOfCode\\Puzzle2.Part2\\obj\\",
+        "outputPath": "C:\\Git\\AdventOfCode2021\\Puzzle2.Part2\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

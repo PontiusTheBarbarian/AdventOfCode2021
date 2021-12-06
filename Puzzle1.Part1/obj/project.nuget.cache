@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "VJAJMB6othIgZWhM8kVIbp+rE8HLzcq3iQ3PAGEvbYy8a8eHNJBz+9+J0MybiJwU6//RwARigPBFrwe92RlN0w==",
+  "dgSpecHash": "NSFLvoxMBRhxYc1E+nDNyOtZc6n8IZUjRdZCC160PkQXLfTqYM5RV/H856tNRJ5HRr7TLucGtnWD2WfFQXtvMQ==",
   "success": true,
-  "projectFilePath": "C:\\Git\\AdventOfCode\\Puzzle1\\Puzzle1.csproj",
+  "projectFilePath": "C:\\Git\\AdventOfCode2021\\Puzzle1.Part1\\Puzzle1.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

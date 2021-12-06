@@ -16,11 +16,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Git\\AdventOfCode\\Puzzle3.Part1\\Puzzle3.Part1.csproj",
+      "projectUniqueName": "C:\\Git\\AdventOfCode2021\\Puzzle3.Part1\\Puzzle3.Part1.csproj",
       "projectName": "Puzzle3.Part1",
-      "projectPath": "C:\\Git\\AdventOfCode\\Puzzle3.Part1\\Puzzle3.Part1.csproj",
+      "projectPath": "C:\\Git\\AdventOfCode2021\\Puzzle3.Part1\\Puzzle3.Part1.csproj",
       "packagesPath": "C:\\Users\\LiamAppleyard\\.nuget\\packages\\",
-      "outputPath": "C:\\Git\\AdventOfCode\\Puzzle3.Part1\\obj\\",
+      "outputPath": "C:\\Git\\AdventOfCode2021\\Puzzle3.Part1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
